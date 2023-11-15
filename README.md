@@ -2,12 +2,7 @@
 
 <h2>Information Technology Projects:</h2>
 
--<b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
+<b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Configuration](https://github.com/jonriv23/osticket/blob/main/README.md)
 
--<b>Microsoft Azure</b>
-  - Configuring Active Directory within Azure VMs
-  - Network Security Groups (NSGs) and Inspecting Network Protocols
 
